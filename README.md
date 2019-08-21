@@ -2,7 +2,7 @@ PHP, JS and CSS Minifier
 ====================
 
 ## Description
-This plugin is a modified version of PHP, JS and CSS Minifier by promatik, with this plugin, you can minify you js's and css's via PHP, it will create a file with .min, example: css/style.css => css/style.min.css.
+This plugin is a modified version of [PHP, JS and CSS Minifier](https://github.com/promatik/PHP-JS-CSS-Minifier) by promatik, with this plugin, you can minify you js's and css's via PHP, it will create a file with .min, example: css/style.css > css/style.min.css.
 This plugin uses an online service provided by Andy Chilton, http://chilts.org/
 
 ## Download
